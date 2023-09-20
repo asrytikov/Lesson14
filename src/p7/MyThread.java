@@ -1,4 +1,4 @@
-package p6;
+package p7;
 
 public class MyThread extends Thread{
 
